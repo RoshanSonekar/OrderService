@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="Src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj" />
   <Project Path="Src/Order.Application/Order.Application.csproj" />
   <Project Path="Src/Order.Domain/Order.Domain.csproj" />
