@@ -3,5 +3,5 @@
   <Project Path="Src/Order.Application/Order.Application.csproj" />
   <Project Path="Src/Order.Domain/Order.Domain.csproj" />
   <Project Path="Src/Order.Infrastructure/Order.Infrastructure.csproj" />
-  <Project Path="Src/OrderService/OrderService.csproj" />
+  <Project Path="Src/OrderService/Order.Service.csproj" />
 </Solution>
