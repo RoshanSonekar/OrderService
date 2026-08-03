@@ -2,9 +2,9 @@
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>
+  <Project Path="Services/Ordering.Service/Ordering.Service.csproj" Id="32210a2d-0643-4243-b370-0c7081653619" />
   <Project Path="Src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj" />
   <Project Path="Src/Order.Application/Order.Application.csproj" />
   <Project Path="Src/Order.Domain/Order.Domain.csproj" />
   <Project Path="Src/Order.Infrastructure/Order.Infrastructure.csproj" />
-  <Project Path="Src/Order.Service/Order.Service.csproj" />
 </Solution>
