@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Src/BuildingBlocks/BuildingBlocks/bin/Debug/net8.0
+/Src/Order.Application/bin/Debug/net8.0
+/Src/Order.Infrastructure/bin/Debug/net8.0
+/Src/Order.Domain/bin/Debug/net8.0
