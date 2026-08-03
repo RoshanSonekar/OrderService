@@ -35,16 +35,3 @@ C:\Personal\PracticeDev\OrderServiceNew\Src\BuildingBlocks\BuildingBlocks\obj\De
 C:\Personal\PracticeDev\OrderServiceNew\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
 C:\Personal\PracticeDev\OrderServiceNew\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
 C:\Personal\PracticeDev\OrderServiceNew\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.deps.json
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.dll
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.pdb
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.AssemblyReference.cache
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfoInputs.cache
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfo.cs
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.CoreCompileInputs.cache
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.sourcelink.json
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.dll
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
-C:\Personal\PracticeDev\OrderServiceNew\OrderService\Src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll
