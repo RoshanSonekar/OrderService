@@ -14,6 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AspNetCore.HealthChecks.SqlServer" Version="9.0.0" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="9.0.0" />
+    <PackageReference Include="Carter" Version="8.2.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.18">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -24,6 +27,10 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Src\Order.Application\Order.Application.csproj" />
     <ProjectReference Include="..\..\Src\Order.Infrastructure\Order.Infrastructure.csproj" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="Endpoints\" />
   </ItemGroup>
 
 </Project>

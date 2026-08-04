@@ -31,7 +31,7 @@ namespace Order.Application.Orders.Queries.GetOrderByName
 					OrderName: order.OrderName.Value,
 					ShippingAddress: new AddressDTO
 					(
-						order.ShippingAddress.FirstName,
+						order.ShippingAddress.FirstName,	
 						order.ShippingAddress.LastName,
 						order.ShippingAddress.EmailAddress,
 						order.ShippingAddress.AddressLine,

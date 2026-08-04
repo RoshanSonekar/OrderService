@@ -1,7 +1,7 @@
 using Order.Application;
 using Order.Infrastructure;
 using Order.Infrastructure.Data.Extensions;
-using Ordering.Service; 
+using OrderService; 
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services
 	.AddApplicationServices()
 	.AddInfrastructureServices(builder.Configuration)
-	.AddOrderServices();
+	.AddOrderServices(builder.Configuration);
 
 var app = builder.Build();
 
